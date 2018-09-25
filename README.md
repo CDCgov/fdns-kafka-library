@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CDCgov/fdns-kafka-library.svg?branch=master)](https://travis-ci.org/CDCgov/fdns-kafka-library)
+
 # FDNS Kafka Library
 This the repository with the Java Library for Foundation Services (FDNS) Kafka workers.
 
@@ -9,7 +11,7 @@ Add this into your `pom.xml` to start using the kafka library:
 <dependency>
   <groupId>gov.cdc</groupId>
   <artifactId>fdns-kafka-library</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 
 <!-- add GitHub CDCgov to repositories -->
